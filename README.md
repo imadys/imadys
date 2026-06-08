@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm imad YURTSEVER</h1>
-<h3 align="center">Fullstack Developer | Nextjs · Laravel · Shadcn | SaaS | Boost coding with AI</h3>
-
 - 📫 How to reach me **imadyurtsever@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
